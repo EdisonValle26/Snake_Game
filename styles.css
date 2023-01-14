@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    color: aqua;
+    margin-bottom: 2.5rem;
+}
+
+canvas {
+    border: 3px solid aqua;
+}
